@@ -1,4 +1,4 @@
-# Chrome Extension: Password Revealer V0.1
+# Chrome Extension: Password Revealer V 0.1
 With this Chrome extension all of input fields are text type instead of password type.
 ![Omnibox.](images/icon.png)
 ---
@@ -19,3 +19,10 @@ To control DOM manipulation `content_script` matches with `<all_ulrs>` and `run_
 ![Linkedin](images/Linkedin.png)
 
 ![Netflix](images/netflixLogIn.png)
+
+## Installation
+For installing this Chrome extension, after downlowding the source codes, go to setting > Extensions in Google Chrome. and put a checkmark beside the **Developer mode**  then **Load unpacked extension...** ta-da! :bowtie:, enjoy! :sparkles::sparkles::sparkles:\
+
+Nothing is hidden now. Install it on other people computer and read their passwords. Bank account numbers, etc.
+:japanese_goblin:
+
