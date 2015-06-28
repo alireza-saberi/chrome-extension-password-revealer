@@ -2,8 +2,8 @@
 With this Chrome extension all of input fields are text type instead of password type.
 ![Omnibox.](images/icon.png)
 ---
-**[Doc]() |**
-**[Resources](https://github.com/alireza-saberi/chromeExtension_passwordRevealer) |**
+**[Get Started](https://github.com/alireza-saberi/chromeExtension_passwordRevealer) |**
+**[Resources](https://github.com/alireza-saberi/chromeExtension_passwordRevealer/tree/master/codes) |**
 **[Report an Issue](https://github.com/alireza-saberi/chromeExtension_passwordRevealer/issues)**
 
 ---
@@ -18,4 +18,4 @@ To control DOM manipulation `content_script` matches with `<all_ulrs>` and `run_
 
 ![Linkedin](images/Linkedin.png)
 
-![Netflix](images/netflixLogin.png)
+![Netflix](images/netflixLogIn.png)
