@@ -21,8 +21,8 @@ To control DOM manipulation `content_script` matches with `<all_ulrs>` and `run_
 ![Netflix](images/netflixLogIn.png)
 
 ## Installation
-For installing this Chrome extension, after downlowding the source codes, go to setting > Extensions in Google Chrome. and put a checkmark beside the **Developer mode**  then **Load unpacked extension...** ta-da! :bowtie:, enjoy! :sparkles::sparkles::sparkles:\
+For installing this Chrome extension, after downlowding the source codes, go to setting > Extensions in Google Chrome. and put a checkmark beside the **Developer mode**  then **Load unpacked extension...** ta-da! :bowtie:, enjoy! :sparkles::sparkles::sparkles:
 
-Nothing is hidden now. Install it on other people computer and read their passwords. Bank account numbers, etc.
+Nothing is hidden now. Install it on other people computer and read their passwords. bank account numbers, etc.
 :japanese_goblin:
 
