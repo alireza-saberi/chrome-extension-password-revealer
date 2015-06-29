@@ -1,5 +1,5 @@
 # Chrome Extension: Password Revealer V 0.1
-With this Chrome extension all of input fields are text type instead of password type.
+With this Chrome extension all of input fields are type of `text`  instead of `password` type.
 ![Omnibox.](images/icon.png)
 ---
 **[Get Started](https://github.com/alireza-saberi/chromeExtension_passwordRevealer) |**
